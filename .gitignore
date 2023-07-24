@@ -6,6 +6,7 @@
 .idea/**/*.xml
 .idea/**/*.iml
 .idea/**/.gitignore
+poiemaweb/**/*.js
 
 # User-specific stuff
 .idea/**/workspace.xml
